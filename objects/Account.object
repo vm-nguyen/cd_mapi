@@ -3,7 +3,7 @@
     <webLinks>
         <fullName>GoogleNews</fullName>
         <availability>online</availability>
-        <description>Updated label</description>
+        <description>Updated label and label</description>
         <displayType>link</displayType>
         <encodingKey>UTF-8</encodingKey>
         <hasMenubar>false</hasMenubar>
@@ -22,7 +22,7 @@
     </webLinks>
     <fields>
         <fullName>Active__c</fullName>
-        <description>Standard - update description 1</description>
+        <description>User 2 Work</description>
         <externalId>false</externalId>
         <label>Active</label>
         <required>false</required>
